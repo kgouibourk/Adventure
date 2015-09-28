@@ -1,0 +1,3 @@
+npm init  : cree ton package.json avec les dependecies, git, projectname, license...
+mongod.exe --dbpath c:\Project\mongodb
+nodemon server.js
